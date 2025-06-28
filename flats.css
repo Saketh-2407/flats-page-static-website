@@ -1,0 +1,134 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.hp-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.sunrise-card-container {
+    background-color: #ffffff;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    text-align: center;
+    padding: 24px;
+}
+
+.hp-heading {
+    color: #f19116;
+    font-size: 28px;
+    font-family: "Bree Serif";
+    font-weight: 500;
+}
+
+.hp-para {
+    color: #7b8794;
+    font-family: "Bree Serif";
+}
+
+.button {
+    background-color: #f19116;
+    color: #ffffff;
+    font-size: 14px;
+    border-width: 0px;
+    border-radius: 5px;
+    height: 36px;
+    width: 100px;
+    margin-top: 20px;
+    font-family: "Roboto";
+    margin-right: 10px;
+}
+
+.flat-list-bg-container {
+    background-color: #222222;
+    background-size: cover;
+    font-family: "Bree Serif";
+    padding: 16px;
+}
+
+.fl-flat-conatiner {
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.fl-flat-image {
+    height: 200px;
+    width: 100px;
+}
+
+.fl-flat-text-container {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.fl-flat-name {
+    color: #0f0e46;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.fl-flat-desc {
+    color: #7b8794;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.fd-bg-container {
+    background-color: #222222;
+    height: 105vh;
+}
+
+.fd-flat-image {
+    height: 250px;
+    width: 100vw;
+    margin-left: auto;
+}
+
+.flat-details-container {
+    font-family: "Bree Serif";
+    padding: 16px;
+}
+
+.flat-cost {
+    color: #f19116;
+    font-size: 28px;
+}
+
+.location-container {
+    margin-top: 20px;
+}
+
+.location-icon {
+    height: 30px;
+}
+
+.location-text-container {
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.location-name {
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.hr-line {
+    background-color: #ffffff;
+    height: 2px;
+}
+
+.description-heading {
+    color: #f19116;
+    font-size: 28px;
+}
+
+.description-desc {
+    color: #ffffff;
+    font-size: 14px;
+
+}
+
+.button-align {
+    text-align: center;
+}
